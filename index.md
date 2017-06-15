@@ -61,7 +61,7 @@ You will not really use this much, but it is good to know, in the rare case you 
 
 
 # What is Git
-Git is a free and open source version control system (https://git-scm.com/). 
+Git is a free and open source version control system (https://git-scm.com/). It was first written by [the Linux founder](https://github.com/torvalds) and it got its name by several (arbitrary) [reasons](https://github.com/git/git/blob/master/README.md). 
  
 Git looks scarier than it really is. Once you learn some of the commands, it just a matter of practicing. Harder to get the courage to get started, easier to use when it becomes a habit.
 
