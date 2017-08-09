@@ -79,7 +79,7 @@ For advanced mac users I recommend (brew)[https://brew.sh/]. Install brew and th
 ```
 brew install git 
 ```
-Windows users may download [Git for Windows](https://git-for-windows.github.io/) using their exe-installer (or for advanced users as a [Chocolatey-package](https://chocolatey.org/packages/git)). Note: Git-for-Windows includes an ad-hoc BASH console. Ambitious BASH-users may benefit from installing [Bash on Ubuntu on Windows](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide) first, then using the [Linux installation guide](https://git-scm.com/download/linux). 
+Windows users may download [Git for Windows](https://git-for-windows.github.io/) using their exe-installer. 
  
 ## Initialising a repository (repo)
 You start tracking a folder with git when you run the following command in that folder in the terminal:
@@ -248,3 +248,8 @@ Different people learn differently, here are some online tutorial that can get y
 - [Code Academy - Learn git](https://www.codecademy.com/learn/learn-git)
 - [GitHub - Try git](https://try.github.io/levels/1/challenges/1)
 - [Git Tower - Git tutorial](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction) 
+
+# Notes
+For advanced Windows users there is an alternative way to install using [Chocolatey-package](https://chocolatey.org/packages/git). 
+
+Git-for-Windows includes an ad-hoc BASH console. Ambitious BASH-users may benefit from installing [Bash on Ubuntu on Windows](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide) first, then using the [Linux installation guide](https://git-scm.com/download/linux). 
